@@ -1,0 +1,17 @@
+.Dashboard{
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+
+}
+.cabecalho a {
+  background-color: crimson;
+  padding: 5px 12px;
+  border-radius: 5px;
+}
+.cabecalho{
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 20px;
+  background-color: rgb(136, 132, 132);
+}
